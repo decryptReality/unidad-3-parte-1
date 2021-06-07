@@ -1,0 +1,9 @@
+Algoritmo Ejercicio13
+	Definir radio,altura,volumen
+	Si 0 <= radio & 0 <= altura Entonces
+		volumen <= 3.1416 * radio * radio * altura
+		Escribir "volumen: ",volumen
+	SiNo
+		Escribir "imposible"
+	FinSi
+FinAlgoritmo
