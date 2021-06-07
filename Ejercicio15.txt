@@ -1,0 +1,13 @@
+Algoritmo Ejercicio15 
+	Definir numero
+	Leer numero
+	Si numero = 0 Entonces
+		Escribir "nulo"
+	SiNo
+		Si numero > 0 Entonces
+			Escribir "positivo"
+		SiNo
+			Escribir "negativo"
+		FinSi
+	FinSi
+FinAlgoritmo
