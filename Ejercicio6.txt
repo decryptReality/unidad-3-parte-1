@@ -1,0 +1,7 @@
+Algoritmo Ejercicio6
+	Definir numero,numero2
+	numero <- aleatorio(0,200)
+	numero2 <- 1.30 * numero
+	Escribir "aleatorio: ",numero
+	Escribir "aumentado: ",numero2
+FinAlgoritmo
