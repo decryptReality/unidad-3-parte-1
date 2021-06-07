@@ -1,0 +1,9 @@
+Algoritmo Ejercicio9
+	Definir palabraA1,palabraB1,palabraA2,palabraB2
+	palabraA2 <- palabraA1
+	palabraB2 <- palabraB1
+	palabraA1 <- palabraB2
+	palabraB1 <- palabraA2
+	Escribir "palabraA: ",palabraA1
+	Escribir "palabraB: ",palabraB1
+FinAlgoritmo
