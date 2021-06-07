@@ -1,0 +1,12 @@
+Algoritmo Ejercicio11
+	Definir centimetros,metros,yardas,pies,pulgadas
+	Leer centimetros
+	metros <- centimetros / 100
+	yardas <- 1.094 * metros
+	pies <- 3.281 * metros
+	pulgadas <- 39.97 * metros
+	Escribir "yardas: ",yardas
+	Escribir "metros: ".metros
+	Escribir "pies: ",pies
+	Escribir "pulgadas: ",pulgadas
+FinAlgoritmo
