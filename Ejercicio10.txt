@@ -1,0 +1,9 @@
+Algoritmo Ejercicio10
+	Definir base,altura,area,perimetro
+	Leer base
+	Leer altura
+	area <- base * altura
+	perimetro <- 2 * base + 2 * altura
+	Escribir "area: ",area
+	Escribir "perimetro: ".perimetro
+FinAlgoritmo
