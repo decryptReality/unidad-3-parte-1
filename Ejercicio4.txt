@@ -1,0 +1,7 @@
+Algoritmo Ejercicio4
+	Definir numero1,cuadrado,cubo
+	Leer numero1
+	cuadrado <- numero1 * numero1
+	cubo <- cuadrado * numero1
+	Escribir "cuadrado: ",cuadrado," cubo: ",cubo	
+FinAlgoritmo
