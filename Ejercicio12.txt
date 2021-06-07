@@ -1,0 +1,6 @@
+Algoritmo Ejercicio12
+	Definir celsius,fahrenheit
+	Leer celsius
+	fahrenheit <- (9/5) * celsius + 32
+	Escribir "fahrenheit: ",fahrenheit
+FinAlgoritmo
