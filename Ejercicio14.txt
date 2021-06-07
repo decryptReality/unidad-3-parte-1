@@ -1,0 +1,9 @@
+Algoritmo Ejercicio14
+	Definir numero1,numero2,residuo
+	Leer numero1
+	Leer numero2
+	residuo <- numero2 % numero1
+	Si residuo = 0 Entonces
+		Escribir "es divisible"		
+	FinSi
+FinAlgoritmo
