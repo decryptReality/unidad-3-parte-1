@@ -1,0 +1,10 @@
+Algoritmo Ejercicio8
+	Definir numero1,numero2,numero3,suma
+	Definir promedio
+	Leer numero1
+	Leer numero2
+	Leer numero3
+	suma <- numero1 + numero2 + numero3
+	promedio <- suma / 3
+	Escribir "promedio: ".promedio
+FinAlgoritmo
