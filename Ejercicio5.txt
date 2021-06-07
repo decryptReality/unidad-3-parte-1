@@ -1,0 +1,7 @@
+Algoritmo Ejercicio5
+	Definir numero, siguiente
+	Escribir "ingrese un numero"
+	Leer numero
+	siguiente <- numero + 1
+	Escribir "siguiente: ",siguiente
+FinAlgoritmo
